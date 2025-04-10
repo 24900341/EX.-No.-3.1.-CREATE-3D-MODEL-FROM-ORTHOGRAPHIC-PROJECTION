@@ -1,7 +1,11 @@
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+
+NAME: MOHAMED NIZAMUDDIN A
+
+REG NO: 212224040194
 
 ## AIM:
+
 To create a 3D model from given orthographic projection.
 
 ## REQUIREMENTS:
@@ -41,6 +45,9 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+
+![Screenshot 2025-04-10 205954](https://github.com/user-attachments/assets/f7d3a428-c9fb-40ae-b8be-649e8d65185a)
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
